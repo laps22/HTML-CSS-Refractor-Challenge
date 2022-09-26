@@ -13,4 +13,4 @@
 *Heading attributes are in sequential order*
 
 *A concise and descriptive title is added*
-clear
+
