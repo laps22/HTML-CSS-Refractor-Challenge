@@ -1,16 +1,9 @@
 # Refractor Code Challenge
 
-## User Story
+## Description
 
-*As a developer I want to refactor HTML and CSS code to meet accessibility standards and ensure optimization for search engines*
+For this challenge I will refractor the delivered index so that it displays semantic HTML elements that follow a logical structure. Part of this is ensuring that the heading attributes are in sequential order. To adhere to the client request to have an accesible webpage. The image elements will contain accesible attributes. These attributes will allow for search engine optimization as well. Lastly, we will add a descriptive and concise title to the site.
 
-## Acceptance Criteria
+## Help
 
-*It is done when the semantic elements in the HTML follow a logical structure*
-
-*Image elements contain accesible attributes*
-
-*Heading attributes are in sequential order*
-
-*A concise and descriptive title is added*
-
+There is an issue with the aside element and I'm stuck on how to correct it so that the column is inline with the section content. Please advise with any assisted feedback.
