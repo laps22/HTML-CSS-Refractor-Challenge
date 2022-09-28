@@ -13,3 +13,5 @@ https://laps22.github.io/HTML-CSS-Refractor-Challenge/
 
 ## Images
 
+![Screenshot](capture1.png)
+
